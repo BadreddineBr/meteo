@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">meteo</string>
+    <string name="view_details">View details</string>
+    <string name="feels_like">Feels like %s°</string>
+    <string name="min_max_temp">Max %s° Min %s°</string>
+    <string name="_5_days_forecast">Prévisions sur 10 jour(s)</string>
+    <string name="daily_min_max_temp"><b>%s°</b>/%s°</string>
+    <string name="speed">Speed</string>
+    <string name="degree">Degree</string>
+    <string name="gust">Gust</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sun">Sun</string>
+    <string name="sunset">Sunset</string>
+    <string name="wind_speed">%s m/s</string>
+    <string name="wind_degree">%s°</string>
+    <string name="wind_gust">%s m/s</string>
+    <string name="humidity">%s%%</string>
+    <string name="pressure">%s hPa</string>
+    <string name="cloudiness">%s%%</string>
+    <string name="conditions_title">Conditions</string>
+    <string name="humidity_title">Humidity</string>
+    <string name="pressure_title">Pressure</string>
+    <string name="cloudiness_title">Cloudiness</string>
+    <string name="wind_title">Wind</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="permission_description">In order to furnish you with precise weather updates, it is necessary for me to ascertain your current location. This enables me to deliver real-time weather reports and forecasts tailored to your specific geographical area.</string>
+    <string name="settings">Settings</string>
+    <string name="error_description">Looks like something went wrong. Please try again later 😥😥</string>
+    <string name="try_again">Try again</string>
+</resources>
