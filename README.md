@@ -1,17 +1,28 @@
-# Android Weather App Kotlin-XML
+# Meteo App 🌤️
 
-You can view weather information for your current location and a 5-day forecast. The application has been developed in accordance with the mvvm architecture.
+**Meteo App** est une application Android qui fournit des prévisions météorologiques en temps réel en utilisant une API externe. Cette application est développée en **Kotlin** et utilise **Dagger Hilt** pour l'injection de dépendances.
 
-## Tech Stack 📚
+## 🚀 Fonctionnalités
 
-* [Android Architecture Components](https://developer.android.com/topic/architecture)
-    * [Navigation](https://developer.android.com/guide/navigation)
-    * [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
-    * [Repository](https://developer.android.com/topic/architecture/data-layer?hl=en)
-* [Hilt](https://developer.android.com/training/dependency-injection/hilt-android)
-* [Retrofit](https://github.com/square/retrofit)
-* [Datastore](https://developer.android.com/topic/libraries/architecture/datastore)
-* [Splash API](https://developer.android.com/develop/ui/views/launch/splash-screen)
+- 🌍 **Recherche par localisation** : Obtenez la météo en saisissant le nom d'une ville.
+- 📍 **Localisation GPS** : Récupérez automatiquement les prévisions de votre emplacement actuel.
+- 🗓️ **Prévisions sur plusieurs jours** : Consultez la météo pour les jours à venir.
+- 🎨 **Interface utilisateur intuitive** : Design simple et attrayant.
+
+## ⚙️ Prérequis
+
+- **Android Studio** (version 2022.1.1 ou supérieure).
+- **Gradle** (version 7.0 ou supérieure).
+- Connexion Internet pour les requêtes API.
+
+## 📦 Dépendances
+
+- **Dagger Hilt** : Injection de dépendances.
+- **Retrofit** : Requêtes réseau vers l'API.
+- **Coroutines** : Gestion des tâches asynchrones.
+- **Glide** : Chargement et affichage des images.
+
+
 
 ## Outputs 🖼
 
