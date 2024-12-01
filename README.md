@@ -22,12 +22,14 @@
 - **Coroutines** : Gestion des tâches asynchrones.
 - **Glide** : Chargement et affichage des images.
 
+## 🖼 Outputs
 
+| Écran                 | Aperçu |
+|-----------------------|--------|
+| **Écran d'accueil**   | <img src="https://github.com/user-attachments/assets/8e316eff-dcf2-4aec-8e94-d5d93fe70553" width="300" height="600" alt="Écran d'accueil"/> |
+| **Écran détails**     | <img src="https://github.com/user-attachments/assets/c45cc41a-ace9-4d16-bb8b-9c45f923f622" width="300" height="600" alt="Écran détails"/> |
+| **Écran de permissions** | <img src="https://github.com/user-attachments/assets/f71814ce-7b09-45ce-8239-2083d8fce154" width="300" height="600" alt="Écran de permissions"/> |
 
-## Outputs 🖼
+---
 
-|                  | Light | Dark |
-|------------------|-------|------|
-| Login Screen     | <img src="https://github.com/AhmetOcak/Android-Weather-App/assets/73544434/2322b1d7-d17e-4c1d-86de-60ffc5ce5805" width="240" height="480"/>      | <img src="https://github.com/AhmetOcak/Android-Weather-App/assets/73544434/d4906291-c3f0-4829-9473-a86d4ea22dd7" width="240" height="480"/>     |
-| SignUp Screen  | <img src="https://github.com/AhmetOcak/Android-Weather-App/assets/73544434/34be7fe3-ee28-44bc-8232-47f4fdd57dc5" width="240" height="480"/>      | <img src="https://github.com/AhmetOcak/Android-Weather-App/assets/73544434/64ea4ea5-027f-4fb5-a764-5f349678715a" width="240" height="480"/>     |
-| Permission Screen  | <img src="https://github.com/AhmetOcak/Android-Weather-App/assets/73544434/552bbe04-e3df-4cfb-9071-18e71150d014" width="240" height="480"/>      | <img src="https://github.com/AhmetOcak/Android-Weather-App/assets/73544434/bc91b863-d045-47af-9cce-be80f7f445ab" width="240" height="480"/>     |
+© 2024 par **BEB**.
